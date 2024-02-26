@@ -77,7 +77,7 @@ t.penup()
 t.setpos(140, 120)
 t.color("#9400d3")  # Cambiamos el color del texto a negro
 style = ("Arial", 13, "italic")
-t.write("FELIZ CUMPLEAÑOS JIMENA :D", font=style, align="Right")
+t.write(":D", font=style, align="Right")
 
 # Nombre del cumpleañero
 t.penup()
